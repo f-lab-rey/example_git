@@ -13,4 +13,5 @@ public class A {
         private final static String CRASH = "crash";
         // 이건 의도적인 충돌을 만든거 입니다.
         private final static String CRASH1 = "crash1";
+        // 의미 없음
 }
